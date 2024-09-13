@@ -8,7 +8,7 @@ public:
     node(int value)
     {
         data = value;
-        left = right = NULL;
+        left = right = NULL; 
     }
 };
 // createing tree
